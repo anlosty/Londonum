@@ -1,0 +1,8 @@
+body {
+	background: white url('img/background.jpg') no-repeat center top;
+}
+
+#page {
+	with: 1000px;
+	margin: 0 auto;
+}
